@@ -16,7 +16,7 @@ gsap.to("#page2 h1 span",{
     scrollTrigger:{
         trigger:"#page2 h1",
         scroller: "body",
-        start:"top 20%",
+        start:"top 60%",
         end:"top -10%",
         scrub:2,
     }
